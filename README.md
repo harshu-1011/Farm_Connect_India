@@ -5,7 +5,7 @@
 
 ## Getting Started
 #### Here is a simple flow chart:
-![iam a indian farmer drawio](https://github.com/leelasabarish/Im-an-IndianFarmer/assets/74003155/13033b19-0628-49ae-b68e-8e7e0b8a317d)
+![iam a indian farmer drawio](https://github.com/leelasabarish/Im-an-IndianFarmer/assets/74003155/13033b19-0628-49ae-b68e-8e7e0b8a317d) 
 
 
 
